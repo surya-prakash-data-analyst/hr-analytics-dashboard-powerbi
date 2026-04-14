@@ -230,7 +230,7 @@ python scripts/generate_visuals.py
 
 **Surya Prakash** — Data Analyst  
 📍 Hyderabad, India  
-🔗 [LinkedIn](https:linkedin.com/in/surya-prakash-data-analyst) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)  
+🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)  
 📧 *suryaprakash1892@gmail.com*
 
 ---
